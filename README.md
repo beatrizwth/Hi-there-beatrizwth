@@ -18,8 +18,8 @@
 </div><br>
 
 <div>
-    <a href="https://github.com/biabzp"/>
-    <img height="110cm"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=biabzp&layout=compact"/>
+    <a href="https://github.com/beatrizbzp"/>
+    <img height="110cm"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizbzp&layout=compact"/>
     </div>
 
    ##   
