@@ -20,7 +20,7 @@
 </div><br>
 
 <div>
-    <a href="https://github.com/beatrizbzp"/>
+    <a href="https://github.com/beatrizwth"/>
     <img height="110cm"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizbzp&layout=compact"/>
     </div>
 
