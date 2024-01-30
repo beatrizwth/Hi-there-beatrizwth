@@ -1,4 +1,4 @@
-## Oi, aqui é a Beatriz!
+## Oi, por aqui é a Bia versão techgirl, espero que goste!
 
 🧩 Tenho 19 anos.
 
